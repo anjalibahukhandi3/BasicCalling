@@ -1,0 +1,1 @@
+[{"navFile":"src\\main\\res\\navigation\\nav_graph.xml","javaFiles":["com.intern.callingapp.DialPadFragmentDirections","com.intern.callingapp.OutgoingCallFragmentDirections","com.intern.callingapp.OutgoingCallFragmentArgs","com.intern.callingapp.IncomingCallFragmentDirections","com.intern.callingapp.IncomingCallFragmentArgs","com.intern.callingapp.ActiveCallFragmentDirections"]}]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.intern.callingapp-merged_res-48:/layout_fragment_incoming_call.xml.flat",
+        "source": "com.intern.callingapp-main-50:/layout/fragment_incoming_call.xml"
+    },
+    {
+        "merged": "com.intern.callingapp-merged_res-48:/layout_fragment_active_call.xml.flat",
+        "source": "com.intern.callingapp-main-50:/layout/fragment_active_call.xml"
+    },
+    {
+        "merged": "com.intern.callingapp-merged_res-48:/navigation_nav_graph.xml.flat",
+        "source": "com.intern.callingapp-main-50:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.intern.callingapp-merged_res-48:/layout_fragment_dial_pad.xml.flat",
+        "source": "com.intern.callingapp-main-50:/layout/fragment_dial_pad.xml"
+    },
+    {
+        "merged": "com.intern.callingapp-merged_res-48:/layout_activity_main.xml.flat",
+        "source": "com.intern.callingapp-main-50:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.intern.callingapp-merged_res-48:/layout_fragment_outgoing_call.xml.flat",
+        "source": "com.intern.callingapp-main-50:/layout/fragment_outgoing_call.xml"
+    }
+]
